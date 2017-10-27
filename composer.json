@@ -1,0 +1,25 @@
+{
+  "name": "juslintek/pagespeedwww",
+  "description": "Frontend for testing page speed",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "juslintek",
+      "email": "jusys.linas@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "5.6",
+    "ext-gd": "*",
+    "ext-mbstring": "*",
+    "ext-apc": "*",
+    "ext-sqlite3": "*",
+    "ffmpeg": "*",
+    "jpegtran": "*",
+    "exiftool": "*",
+    "ext-apcu": "*",
+    "ext-imagick": "*",
+    "libx264": "*"
+  }
+}
