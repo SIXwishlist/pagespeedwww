@@ -1,4 +1,3 @@
-https://github.com/ddollar/heroku-buildpack-multi
 https://github.com/jayzes/heroku-buildpack-jpegoptim.git
 https://github.com/brooks/heroku-buildpack-ffmpeg-x264.git
 https://github.com/teamupstart/heroku-buildpack-exiftool.git
