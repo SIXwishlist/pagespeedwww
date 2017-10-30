@@ -1,0 +1,3 @@
+ffmpeg-python
+Pillow
+-i https://pypi.anaconda.org/pypi/simple pyssim
