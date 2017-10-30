@@ -15,7 +15,6 @@
     "ext-mbstring": "*",
     "ext-apc": "*",
     "ext-sqlite3": "*",
-    "ext-apcu": "*",
-    "ext-imagick": "*"
+    "ext-apcu": "*"
   }
 }
